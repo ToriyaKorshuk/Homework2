@@ -1,0 +1,38 @@
+#first{
+    position: fixed;
+    margin-left: 100px;
+    margin-top: 100px;
+    height: 400px;
+    width:  400px;
+    background: white;
+    border: 7px solid black;
+}
+
+#a{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    background:olivedrab;
+}
+
+#b{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    margin-left: 200px;
+    background: indigo;
+    bottom: 0px;
+}
+
+#c{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    background:lightcoral;
+    margin-left:100px;
+    margin-bottom:20px;
+    bottom: 100px;
+    top: 100px;
+    left: 0px;
+    right:0px;
+}
